@@ -1,2 +1,2 @@
 # Assets
-Public-ish assets 
+Public-ish assets
